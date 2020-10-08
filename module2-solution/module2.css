@@ -1,0 +1,75 @@
+@media (min-width:922xp){
+	.chicken, .beef, .stew
+	 }
+	.chicken{
+    	position: 25%;
+    	background-position: right;
+    }
+
+	.beef{
+		position: 25%;
+		background-position: right;
+	}
+
+	.stew{
+		position: 25%;
+		background-position: right; 
+	}
+	}
+
+@media (min-width:768xp),(max-width:991xp){
+	.chicken, .beef, .stew 
+	{
+	.chicken{
+		position: 25%;
+    	background-position: right;
+	}
+
+	.beef{
+		position: 25%;
+    	background-position: right;
+	}
+
+	.stew{
+		position: 25%;
+    	background-position: right;
+	}
+	}
+div{
+  height: 2xp;
+  width: 2xp;
+  length: 2xp;
+  border: 1px solid #000;
+
+.chicken{
+	border: 1px black;
+	background-color: grey;
+	text-align: left;
+	margain: auto
+	padding: 1px solid black;
+}
+
+.beef{
+	border: 1px black;
+	background-color: grey;
+	text-align: left;
+	margain: auto
+	padding: 1px solid black;
+}
+
+.stew{
+	border: 1px black;
+	background-color: grey;
+	text-align: left;
+	margain: auto
+	padding: 1px solid black;
+}
+}
+span{
+	display: right
+	backgorund-color: yellow;
+	padding:
+}
+  #container:{
+    display: flex
+  }
